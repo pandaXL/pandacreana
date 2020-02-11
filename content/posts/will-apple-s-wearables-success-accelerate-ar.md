@@ -5,6 +5,6 @@ tags = ["news", "apple", "tech"]
 title = " Love is in small things / Puuung"
 
 +++
-Love is in small things / Puuung
+I feel love is something that anyone can relate to and emits light from the small things. And I think it comes in ways that we can easily overlook in our daily lives. So I work to find hidden meanings of love in these daily lives and translate them into animations and illustrations.
 
-Meanwhile, the story is the opposite for wearables, as that division is on its way up. It exceeded $10 billion in quarterly revenue for the first time, up $3.7 billion year-over-year. This falls short of the iPhone’s $4 billion year-over-year jump but is a greater percentage jump from a lower base.
+{{<youtube xdHx1YEsWwk>}}
