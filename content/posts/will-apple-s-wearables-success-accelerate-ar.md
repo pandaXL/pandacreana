@@ -1,7 +1,7 @@
 +++
 cata = []
 date = 2020-02-09T16:00:00Z
-tags = ["in other words", "i :heart: u"]
+tags = ["in other words", "i love u"]
 title = "Love is in small things - Puuung"
 
 +++
