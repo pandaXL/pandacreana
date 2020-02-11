@@ -3,7 +3,9 @@ title: About
 date: 2020-02-10T07:21:06.000+00:00
 
 ---
-!\[panda-1.png\](![](https://i.loli.net/2020/02/11/7oTLRZDVgEyetsU.png))`{:height="50%" width="50%"}`
+![](https://i.loli.net/2020/02/11/7oTLRZDVgEyetsU.png)
+
+{{ $image := $resource.Resize "600x" }}
 
 $x^e*3$
 
