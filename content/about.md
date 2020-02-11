@@ -4,5 +4,4 @@ date: 2020-02-10T07:21:06.000+00:00
 
 ---
 <img src="https://i.loli.net/2020/02/11/7oTLRZDVgEyetsU.png" width="30%" height="30%">  
-
-The example config file can be found in the theme’s `exampleSite` folder. You can just copy the `config.toml` to the root directory of your Hugo site. There are instructions in the example config file, feel free to change strings as you like to customize your website.
+<center>为什么你认为美——世界上最宝贵的财富——会同沙滩上的石头一样，一个漫不经心的过路人随随便便地就能够捡起来？美是一种美妙、奇异的东西，艺术家只有通过灵魂的痛苦折磨才能从宇宙的混沌中塑造出来。在美被创造出以后，它也不是为了叫每个人都能认出来的。要想认识它，一个人必须重复艺术家经历过的一番冒险。他唱给你的是一个美的旋律，要是想在自己心里重新听一遍就必须有知识、有敏锐的感觉和想象力。 </center>
