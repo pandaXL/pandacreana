@@ -11,3 +11,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- content/posts/第八话-来自海境.md
