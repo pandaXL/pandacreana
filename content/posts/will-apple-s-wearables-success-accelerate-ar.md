@@ -1,7 +1,7 @@
 +++
 cata = []
 date = 2020-02-09T16:00:00Z
-tags = ["news", "apple", "tech"]
+tags = ["in other words", "i :heart: u"]
 title = "Love is in small things - Puuung"
 
 +++
