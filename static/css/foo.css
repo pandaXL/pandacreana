@@ -6,3 +6,6 @@ h1
 }
 
 body {font-family: 'Roboto','Noto Serif SC';}
+.site-main > h1{
+    font-family: "Dancing Script";
+}
