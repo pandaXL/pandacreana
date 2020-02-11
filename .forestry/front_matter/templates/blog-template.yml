@@ -1,0 +1,14 @@
+---
+label: blog template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
